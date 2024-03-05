@@ -13,4 +13,11 @@ h1 {
 button {
    background-color: #005c5c;
    color: white;
+   height: 50px;
+   width: 100px;
+   font-size: large;
+}
+
+h2 {
+    color: white;
 }

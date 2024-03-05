@@ -9,12 +9,18 @@
 <body>
     <div class="timer">Time: <span id="time">60</span></div>
 
-    <header class="header">
-        <h1>Code Quiz!</h1>
-    </header>
+    <div id="intro">
+        <h1>Seattle Mariners Trivia!</h1>
+    
     <section>
-     <button id="start">Start Quiz</button>
+     <button id="start">Play Ball</button>
     </section>
+    </div>
+    <div id="questions" class="hide">
+        <h2 id="question-title"></h2>
+        <div id="choices" class="choices"></div>
+    </div>
+    <div id="reaction" class ="reaction hide"></div>
     <script src="Assets/questions.js"></script>
     <script src="Assets/script.js"></script>
 </body>

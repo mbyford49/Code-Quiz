@@ -24,7 +24,7 @@ var questions = [
     },
 
     {
-        title: "Who hit The Double, sending the Mariners to the 1995 ALCS:",
+        title: 'Who hit "The Double", sending the Mariners to the 1995 ALCS:',
         choices: ["Edgar Martinez", "Joey Cora", "Ken Griffey Jr.", "Jay Buhner"],
         answer: "Edgar Martinez"
     },

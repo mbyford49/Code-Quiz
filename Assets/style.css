@@ -4,10 +4,17 @@
 
 h1 {
     color: white;
+    font-size: 75px;
+}
+
+p {
+    color: white;
+    font-size: x-large;
 }
 
 .timer {
     color: white;
+    font-size: x-large;
 }
 
 button {
@@ -20,4 +27,18 @@ button {
 
 h2 {
     color: white;
+}
+
+h3 {
+    color: #005c5c;
+    font-size: 75px;
+}
+
+.hide {
+    display: none;
+}
+
+.reaction {
+    color: white;
+    font-size: x-large;
 }
